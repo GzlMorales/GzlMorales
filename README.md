@@ -12,10 +12,9 @@ Currently:
 
 [Portfolio](https://gmoral.es/) | [Projects](https://gmoral.es/#projects) | [Blog](https://gmoral.es/blog.html) | [Contact](https://forms.gle/Fh644FwgsrpC8DSq9)
 
+## Selected Projects
 > [!NOTE]  
 > My currently active repositories consist mostly of confidential commercial projects and are private under NDA. 
-
-## Selected Projects
 
 <table>
   <tr>
