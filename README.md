@@ -25,6 +25,7 @@ Currently:
       <h3><a href="https://gmoral.es/gestura.html">Gestura</a></h3>
       <p>Universal, spatial control of home devices using low-cost, magnet-based technology.</p>
       <p><strong>Interaction Design</strong> · <strong>Machine Learning</strong> · <strong>Signal Processing</strong></p>
+      <p>
     </td>
     <td width="50%" valign="top">
       <a href="https://gmoral.es/interactive-paper.html">
@@ -33,6 +34,7 @@ Currently:
       <h3><a href="https://gmoral.es/interactive-paper.html">Interactive Paper</a></h3>
       <p>Bridging the gap between analog and digital advertising through touch-enabled printed experiences.</p>
       <p><strong>Product Development</strong> · <strong>Project Management</strong> · <strong>User Experience</strong></p>
+      <p>
     </td>
   </tr>
   <tr>
@@ -43,6 +45,7 @@ Currently:
       <h3><a href="https://gmoral.es/post-touch-nav.html">TouchNav</a></h3>
       <p>A prototype exploring what it would mean to feel screen contents instead of having to look at them.</p>
       <p><strong>Accessibility</strong> · <strong>Interaction Design</strong> · <strong>Navigation</strong></p>
+      <p>
     </td>
     <td width="50%" valign="top">
       <a href="https://gmoral.es/autolab.html">
@@ -51,6 +54,7 @@ Currently:
       <h3><a href="https://gmoral.es/autolab.html">AutoLAB</a></h3>
       <p>A vehicle dynamics simulator now used at the Polytechnic University of Madrid for engineering education.</p>
       <p><strong>Dynamic Simulation</strong> · <strong>Software Development</strong> · <strong>Education</strong></p>
+      <p>
     </td>
   </tr>
   <tr>
@@ -61,6 +65,7 @@ Currently:
       <h3><a href="https://gmoral.es/robogait.html">ROBOGait</a></h3>
       <p>A user-friendly gait analysis robot designed for healthcare professionals and research environments.</p>
       <p><strong>ROS Robotics</strong> · <strong>Mechanical Design</strong> · <strong>Cross-platform Development</strong></p>
+      <p>
     </td>
     <td width="50%" valign="top">
       <a href="https://gmoral.es/trailsense.html">
@@ -69,6 +74,7 @@ Currently:
       <h3><a href="https://gmoral.es/trailsense.html">TrailSense</a></h3>
       <p>Helping blind hikers navigate with confidence by transforming natural sounds into spatial cues.</p>
       <p><strong>Human-Centered Design</strong> · <strong>Inclusive Design</strong> · <strong>Wearable Sensing</strong></p>
+      <p>
     </td>
   </tr>
 </table>
