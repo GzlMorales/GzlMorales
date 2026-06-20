@@ -2,7 +2,7 @@
 
 I'm an Engineer & Designer based in London, working at the intersection of software, hardware and human-centered design.
 
-My work sits around interaction design, agentic systems with intent-driven UI, emerging sensing technologies and practical software tools. I like building projects that make new technologies easier, friendlier, and more useful for everyone.
+My work sits around *interaction design*, *agentic systems with intent-driven UI*, *emerging sensing technologies* and *practical software tools*. I like building projects that make new technologies easier, friendlier, and more useful for everyone.
 
 Currently:
 
@@ -11,6 +11,9 @@ Currently:
 - La Caixa Foundation Fellow
 
 [Portfolio](https://gmoral.es/) | [Projects](https://gmoral.es/#projects) | [Blog](https://gmoral.es/blog.html) | [Contact](https://forms.gle/Fh644FwgsrpC8DSq9)
+
+> [!NOTE]  
+> My currently active repositories consist mostly of confidential commercial projects and are private under NDA. 
 
 ## Selected Projects
 
