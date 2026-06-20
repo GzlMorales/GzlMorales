@@ -14,7 +14,7 @@ Currently:
 
 ## Selected Projects
 > [!NOTE]  
-> My currently active repositories consist mostly of confidential commercial projects and are private under NDA. 
+> My currently active repositories consist mostly of confidential commercial projects and are either private or hosted on a company-owned, internal GitLab instance. 
 
 <table>
   <tr>
