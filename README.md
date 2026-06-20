@@ -2,7 +2,7 @@
 
 I'm an Engineer & Designer based in London, working at the intersection of software, hardware and human-centered design.
 
-My work sits around *interaction design*, *agentic systems with intent-driven UI*, *emerging sensing technologies* and *practical software tools*. I like building projects that make new technologies easier, friendlier, and more useful for everyone.
+My work sits around **interaction design**, **agentic systems with intent-driven UI**, **emerging sensing technologies** and **practical software tools**. I like building projects that make new technologies easier, friendlier, and more useful for everyone.
 
 Currently:
 
